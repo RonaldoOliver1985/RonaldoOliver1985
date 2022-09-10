@@ -3,7 +3,6 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px" class="hub" class="grid_960 margin-auto">
 </a><br />
 <p align="left" > 
-  <b>Faaallaaa QA!</b>
   <b>Faaallaaa Devs!</b>
 </p>
 <p align="left" >
@@ -11,7 +10,7 @@ Me chamo <b> Ronado Oliveira</b>.
 </p>
 <p align="left" >
 Atualmente moro na Penha/SP-BR.<br />
-Estou a procura de uma oportunidade como: <b>Estágio de Dev java ou QA Engineer </b>.
+Estou a procura de uma oportunidade como: <b>Estagiario</b>.
 </p>
 <p align="left" >
 Nas horas livres jogo game que não sou de ferro: Battlefield 2042
